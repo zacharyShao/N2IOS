@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nproj>
+<nproj version="2.31" category="simple">
+    <book>
+        <title></title>
+        <author></author>
+        <section>3</section>
+        <owner>27</owner>
+        <code>625</code>
+        <revision>76</revision>
+        <scale>0.001</scale>
+        <start_page>1</start_page>
+        <dot_is_line_segment>true</dot_is_line_segment>
+        <line_segment_length>3</line_segment_length>
+        <target_dpi>600</target_dpi>
+        <dotsize>1</dotsize>
+        <segment_info sub_code="0" total_size="77" size="30" current_sequence="2" ncode_start_page="61" ncode_end_page="77"/>
+        <extra_info></extra_info>
+        <kind>0</kind>
+    </book>
+    <ticket>
+        <path>Ticket_24B_6144S.nkey</path>
+    </ticket>
+    <pdf>
+        <path>N blank planner_final.pdf</path>
+    </pdf>
+    <config>
+        <resource_mapping_mode>NORMAL</resource_mapping_mode>
+    </config>
+    <pages count="30">
+        <!--crop_margin="left, right, top, bottom"-->
+        <page_item number="60" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="61" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="62" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="63" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="64" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="65" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="66" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="67" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="68" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="69" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="70" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="71" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="72" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="73" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="74" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="75" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+        <page_item number="76" rotate_angle="0" x1="0" y1="0" x2="498.897" y2="668.976" crop_margin="36.0502,36.0502,36.6897,36.6897" bg_disabled="false" page_type="0"/>
+    </pages>
+    <action_table/>
+    <symbols>
+        <symbol page="60" page_name="061" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{f27f3df2-0ac2-4ce0-85d3-0897f99cc70a}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="61" page_name="062" type="Rectangle" x="409.715" y="61.8571" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{64a5e755-ef3c-4695-85dd-6511d432e29e}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="62" page_name="063" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{7489bbf8-d151-4da6-82d6-5a87e5975d16}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="63" page_name="064" type="Rectangle" x="409.715" y="61.8571" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{2ace7bd7-f7d7-4487-be37-b62498ff7d15}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="64" page_name="065" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{83a09ca5-f2f1-40d7-8359-1eb4f6cfcbef}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="65" page_name="066" type="Rectangle" x="409.715" y="61.8571" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{86eceadd-503f-4ee9-934b-1497134bf4c4}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="66" page_name="067" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{3c0a62dd-0400-4da6-8f97-bc92e0047eb1}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="67" page_name="068" type="Rectangle" x="409.715" y="61.8571" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{18602230-ea77-445e-b8e7-b68a7f8c6cf8}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="68" page_name="069" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{4d6cbeaa-de47-483c-88b3-565b44713ed7}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="69" page_name="070" type="Rectangle" x="409.715" y="61.8571" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{a203daa5-467f-4358-b55e-3bd0c50c1d9e}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="70" page_name="071" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{580cbfa6-8c72-497d-979f-4a503b5f3b13}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="71" page_name="072" type="Rectangle" x="409.715" y="61.8571" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{033d1f45-2c20-4ac5-a895-64abbef17553}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="72" page_name="073" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{12ad3c69-cf26-4744-99c0-9e2857d21e91}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="73" page_name="074" type="Rectangle" x="409.715" y="61.8571" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{64b89443-8a25-4305-8825-9a10cc2b5cb6}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="74" page_name="075" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{9746b090-9b3f-4f68-b418-bf7749e14895}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="75" page_name="076" type="Rectangle" x="409.715" y="61.8571" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{21d676ac-46da-4333-af93-c9e9a818f257}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol page="76" page_name="077" type="Rectangle" x="418.001" y="61.7142" width="19.1424" height="14.5715" lock="1">
+            <name></name>
+            <id>{f9bb17ed-db5c-4a9e-bad9-de667f65c37a}</id>
+            <command name="" action="None" param="email"/>
+            <matching_symbols previous="" next=""/>
+        </symbol>
+        <symbol_names><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></symbol_names>
+    </symbols>
+</nproj>
